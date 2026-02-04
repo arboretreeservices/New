@@ -37,6 +37,7 @@ a{color:inherit}
   display:flex;
   align-items:stretch;
   background: url("assets/tree-bg.jpg") center/cover no-repeat;
+
 }
 .hero__overlay{
   position:absolute;inset:0;
